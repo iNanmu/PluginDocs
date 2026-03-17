@@ -1,0 +1,31 @@
+---
+description: 结束地牢
+---
+
+# End
+
+## 脚本参数
+
+标注 **\*** 为必填参数，带有 **\*N** 为支持 英文逗号隔开多个
+
+| 参数          | 说明                                                             |
+| ----------- | -------------------------------------------------------------- |
+| type **\*** | 消息类型 **(text/title)**                                          |
+| text \*     | 消息内容 ( **title 时可用英文逗号隔开** )                                   |
+| reward      | 是否发放通关奖励 (true/false) 默认**true**                               |
+| delay       | 延迟触发                                                           |
+| end-type    | 地牢结束类型\[**FAILURE/COMPLETE/ALL\_DEATH/LEADER\_LEAVE/UNKNOWN**] |
+
+## 脚本类型
+
+**all** 代表所有的脚本类型都支持
+
+| 类型      | 说明    |
+| ------- | ----- |
+| dungeon | 由地牢执行 |
+
+## 示例
+
+```yaml
+$end{type=text;text=内容;reward=<true/false>;delay=0} @dungeon
+```
