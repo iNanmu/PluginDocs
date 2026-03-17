@@ -12,7 +12,7 @@ description: 全新版本，插件主体永久免费
 | 插件软依赖 | MythicMobs         |
 | 插件硬依赖 | **PlaceholderAPI** |
 
-[「楠木的崽子们」](https://ersha.gitbook.io/code/zhi-shi-xing-qiu) 知识星球，获取更多 **DungeonPlus、AttributePlus** 插件附属，同时可获得星球分享的属性脚本、地牢模板配置等内容！
+[「楠木的崽子们」](https://ersha.gitbook.io/code/zhi-shi-xing-qiu) 知识星球，获取更多 **DungeonPlus、AttributePlus** 插件附属，同时可获得星球分享的属性脚本、地牢模板配置等内容。
 
 ## 插件介绍
 
