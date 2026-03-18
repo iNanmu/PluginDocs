@@ -19,8 +19,8 @@ description: 新版特色 / 3.1.9 版本起
 
 具体用法，你只需要在物品属性Lore上加 **对应类型的读取条件** 即可，例如 **"物理伤害: 1000 / Lv.1000"** 那么装备使用者等级必须大于等于 1000 该属性条目才会生效
 
-![](../.gitbook/assets/PN~MY}QJOSJ]@MB}4]_~N}N.png)
+![](../.gitbook/assets/4.png)
 
-![](../.gitbook/assets/V]5RM0PBI06KUWVU~Q{_8`V.png)
+![](../.gitbook/assets/5.png)
 
-![](../.gitbook/assets/XH@E1BZ%`{TS%XQ24HP\[\[D0.png)
+![](../.gitbook/assets/6.png)

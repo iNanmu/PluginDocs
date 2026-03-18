@@ -34,6 +34,6 @@ description: 插件配置说明
 options: "BOOK"
 ```
 
-![BOOK 模式界面](../.gitbook/assets/D0K$L592SXK~\[V\(36FA\){H0.png)
+![BOOK 模式界面](../.gitbook/assets/2.png)
 
-<div align="center"><img src="../.gitbook/assets/ORZU)A{U@EM%ZJ_YUGK0GOD.png" alt="GUI 模式界面"></div>
+<div align="center"><img src="../.gitbook/assets/1.png" alt="GUI 模式界面"></div>

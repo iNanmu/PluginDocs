@@ -31,4 +31,4 @@ shield:
   cd: 10
 ```
 
-![旧版本效果图](../.gitbook/assets/58b331cd90239909d81a73c716352cd1_assets%2F-MBoLfs8TQZgHdsr3gnG%2F-MDcu57TFqCCZPZPQ5xA%2F-MDcu8C8XD0hKJOPFtj0%2F%E7%9B%BE%E7%89%8C%E6%A0%BC%E6%8C%A1%E6%9C%BA%E5%88%B6_alt=media\&token=8ccb47d3-5f16-4b82-9630-93affa165871.gif)
+![旧版本效果图](../.gitbook/assets/11.gif)

@@ -24,5 +24,5 @@ description: 1.9 +  (可能1.8也支持，可能就只支持弓箭)
 accumulateDamage: false
 ```
 
-![旧版本效果图](../.gitbook/assets/d02b789178dedf8e6f1b91cbcbf51d23_assets%2F-MBoLfs8TQZgHdsr3gnG%2F-MFZ1GjFEhssZ9ZlSEbw%2F-MFZ2Tc2Lp484oKWzsV7%2F%E8%93%84%E5%8A%9B%E6%9C%BA%E5%88%B6_alt=media\&token=20bc6f5d-da40-4002-9457-46044df5d032.gif)
+![旧版本效果图](../.gitbook/assets/9.gif)
 

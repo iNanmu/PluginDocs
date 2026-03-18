@@ -17,6 +17,6 @@ description: 更方便的百分比读取方式，新版特色
 但请不要这样做  ~~**"物理伤害 +10-100 (%)"**~~  那样子你来反馈有问题，你会被我骂 "S13"
 {% endhint %}
 
-![](../.gitbook/assets/G}Z0ZDZI8R\)JF5FIM2@\[U9D.png)
+![](../.gitbook/assets/7.png)
 
-![](../.gitbook/assets/SEVQM$BBK\)FJ]66%K~NOJ6Q.png)
+![](../.gitbook/assets/8.png)

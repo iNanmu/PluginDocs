@@ -454,7 +454,7 @@ custom-condition-component:
 * **修复 3.X** 版本以来存在的BUG (可能造成较高消耗 我的锅)
 * **修复 MythicMobs** 怪物生命力也被生命力属性影响问题 (导致怪物锁血)
 
-<div align="left"><img src=".gitbook/assets/QY(~JP0$&#x60;S8CVU56]{7]S&#x60;X.png" alt=""></div>
+<div align="left"><img src=".gitbook/assets/11.png" alt=""></div>
 
 ## 3.2.3\~3.2.8 - 2022-02-19
 
