@@ -16,9 +16,9 @@
 
 在编辑地牢中拿着 **木锹** 对着方块点击即可获取对应的位置信息 **(图-1)** 如果点击了脚本编辑后使用 **木锹** 点击后会直接设置为所点击的位置 **(图-2\~3)**
 
-![图-1](../../.gitbook/assets/~I]ACX]DWLV8$PNLCSP_FSR.png)
+![图-1](../../.gitbook/assets/3.png)
 
-![图-2](../../.gitbook/assets/RF3HWD}QGB]1~XBRHP{69NL.png)
+![图-2](../../.gitbook/assets/6.png)
 
-![图-3](../../.gitbook/assets/$YP4\[CZE6}VPU%`T}{AB5{S.png)
+![图-3](../../.gitbook/assets/5.png)
 
